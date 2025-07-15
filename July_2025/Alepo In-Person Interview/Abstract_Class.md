@@ -1,5 +1,8 @@
 # My Understanding on Abstratc Class 
 
+- An abstract class in Java is a class that cannot be instantiated.
+- An abstract class provides a partial implementation and forces subclasses to complete it
+
  **🔹 What You Got Right:**
 
 - ✅ Abstract classes can’t be instantiated directly.
